@@ -1,7 +1,7 @@
 
 <h1 align="Center"> 💻 Projeto  </h1>
 
-<h3 align="Center"> Projeto de controle financeiro, tendo os totais e os módulos de inclusão, exclusão e leitura.  </h3>
+<h3 align="Center"> Projeto de controle financeiro, permitindo inserir os valores e obter os totais, possui também módulos de inclusão, exclusão e leitura.  </h3>
 
 <br>
 
